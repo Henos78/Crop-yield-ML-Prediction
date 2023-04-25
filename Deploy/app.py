@@ -7,7 +7,7 @@ import streamlit as st
 from PIL import Image
 
  # Load the trained model from pickle file
-pickle_in = open("crop.pkl","rb")
+pickle_in = open("Deploy/crop.pkl","rb")
 final_model=pickle.load(pickle_in)
 
 #@app.route('/')
