@@ -19,6 +19,6 @@ streamlit run app.py
  Finally the Model will be deployed on you local machine and be displayed on your web browser.
  
  
-## Here is a link to the vidieo  [Deployment video](https://drive.google.com/drive/folders/1SA_tZRMyJor995cOw-N0XcnG_1f8Rpla?usp=sharing)
+## Here is a link to the deployment video  [Deployment video](https://drive.google.com/drive/folders/1SA_tZRMyJor995cOw-N0XcnG_1f8Rpla?usp=sharing)
  
  ### Thanks!
