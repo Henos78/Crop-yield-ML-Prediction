@@ -1,5 +1,4 @@
 # Crop-yield-ML-Prediction
-This is a model developed for our Machine learning summative assignment.
 
 ## How to deploy the model on your local server?
    ### Download the deploy files to your local machine and then open the app.py file on VS code.
